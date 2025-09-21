@@ -8,4 +8,7 @@ public class StaticBlock {
     static{
         System.out.println("from static block2 ");
     }
+    static{
+        System.out.println("from static block3 ");
+    }
 }
